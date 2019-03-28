@@ -71,8 +71,11 @@ a {
 	border: 5px solid yellow;
 	margin-right: 10px;
     }
-		.header {
+.header {
   background: #000;
+}
+ .header h1 {
+  font-size: 20px;
 }
 }
 
