@@ -55,7 +55,10 @@ a {
     .header h1 {
   font-size: 35px;
 }
-
+	.header {
+  background: #fff125;
+}
+}
 @media only screen and (max-width: 480px) {
 
     body {
@@ -68,6 +71,9 @@ a {
 	border: 5px solid yellow;
 	margin-right: 10px;
     }
+		.header {
+  background: #fff125;
+}
 }
 
 /*Try multiple width breaks for different devices */
