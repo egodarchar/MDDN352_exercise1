@@ -4,11 +4,11 @@ There are two sections in this CSS. First sets up the default style, and the sec
 
 
 body {
-    background-color: #FFF;
+    background-color: #c4e6e7;
     color: #000;
     padding: 20px;
     font-family:sans;
-    border: 1px solid #DDD
+    
 }
 /* Header Title */
 .header {
